@@ -12,3 +12,4 @@ Yet Another Text Editor
 - 稳定快速
 
 最重要的一点是这个编辑器能做出来,立个flag吧
+~~vscode 真香~~
